@@ -1,0 +1,72 @@
+body {
+  background-image: url('background.jpg');
+  background-size: cover;
+}
+
+.box {
+  background-color:rgba(0,0,0,0.5);
+  width:1000px;
+  border-radius:15px;
+  margin: auto;
+  padding: 30px;
+  color: rgb(8,220,4);
+  }
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  width: 200px;
+  height: auto;
+}
+
+.titolo {
+  text-align: center;
+}
+
+nav {
+  background-color: rgb(8,220,4);
+  padding: 10px;
+  margin-left: 70px;
+  margin-right: 70px;
+  text-align: center;
+}
+
+.monopattino {
+  color: white;
+  text-align: left;
+}
+
+h3 {
+  display: inline-block;
+}
+
+.stato, .location {
+  color: rgb(200,200,200);
+}
+
+.carica-gino {
+  width: 300px;
+  height: 20px;
+  background: orange;
+  border-radius: 5px;
+}
+
+.carica-mike {
+  width: 500px;
+  height: 20px;
+  background: green;
+  border-radius: 5px;
+}
+
+.carica-fede {
+  width: 100px;
+  height: 20px;
+  background: red;
+  border-radius: 5px;
+}
+
+main {
+  padding-left: 70px;
+}
